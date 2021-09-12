@@ -273,6 +273,7 @@ a.tm-text-primary:hover { color:#666666; }
 p, .tm-text-gray { color: #999; }
 .tm-text-gray-light { color: #CCC; }
 .tm-text-gray-dark { color: #666; }
+.tn-text-black-bold { color: #000; font-weight: bold}
 
 .tm-video-item {
     position: relative;
@@ -374,7 +375,7 @@ p, .tm-text-gray { color: #999; }
 /*---------------*/
 
 figure.effect-ming {
-	background: #030c17;
+	background: #ffffff;
 }
 
 figure.effect-ming img {
@@ -455,7 +456,7 @@ figure.effect-ming:hover img { opacity: 0.4; }
 #tm-video-container {
     max-height: 400px;
     overflow: hidden;
-    background-color: #333;
+    background-color: #fff;
     margin-bottom: 90px;
     position: relative;
 }
