@@ -5,6 +5,8 @@ TemplateMo 556 Catalog-Z
 https://templatemo.com/tm-556-catalog-z
 
 */
+html { height:100%;}
+body { height:100%;}
 
 #loader-wrapper {
     position: fixed;
@@ -190,7 +192,7 @@ a:hover { color:#009999; }
 .navbar-brand i { font-size: 2rem; }
 
 .tm-hero {
-    min-height: 200px;
+    min-height: 300px;
     background: transparent;
 }
 
