@@ -273,7 +273,7 @@ a.tm-text-primary:hover { color:#666666; }
 p, .tm-text-gray { color: #999; }
 .tm-text-gray-light { color: #CCC; }
 .tm-text-gray-dark { color: #666; }
-.tn-text-black-bold { color: #000; font-weight: bold}
+.tm-text-black-bold { color: #000; font-weight: bold}
 
 .tm-video-item {
     position: relative;
